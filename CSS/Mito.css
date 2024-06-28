@@ -1,0 +1,44 @@
+body {
+    margin: 40px;
+}
+
+h1 {
+    text-align: center;
+    background: hsl(228, 68%, 78%);
+    padding : 20px
+}
+
+h2 {
+    padding-top : 30px;
+    border-bottom : solid #447ff5 3px;
+}
+
+
+
+p {
+    padding-left : 20px;
+}
+
+p.inyou {
+    font-size : 10px;
+}
+
+#clubcolor1 {
+    background-color: #447ff5;
+}
+
+#clubcolor2 {
+    background-color: #2a4b8d;
+}
+
+.player {
+    padding-left : 20px;
+}
+
+div { 
+    text-align: center;
+}
+
+#wiki {
+    font-size : 20px;
+}
